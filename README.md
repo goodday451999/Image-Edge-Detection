@@ -6,6 +6,9 @@ Different types of "Edge Detection" of images using MATLAB
 * Log
 * Canny
 
-Through analyzing the output we can conclude that with respect to the more accuracy in clearence of picture quality
+# Input Image
+<img src="https://i.imgur.com/UCFl9ev.jpg" width="1500" height="500"/>
 
+
+Through analyzing the output we can conclude that with respect to the more accuracy in clearence of picture quality
 ***Roberts < Sobel < Prewitt < Log < Canny***
